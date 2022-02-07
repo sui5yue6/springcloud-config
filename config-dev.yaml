@@ -1,2 +1,2 @@
 config:
-  info: "master branch,springcloud-config/config-dev.yml version=7 666"
+  info: "master branch,springcloud-config/config-dev.yml version=7 666 添加刷新功能"
